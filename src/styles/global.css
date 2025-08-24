@@ -4,3 +4,17 @@
 @theme inline {
 	--font-sans: var(--font-geist);
 }
+
+:root {
+  --white: #f4f4f5;          /* same as Tailwind zinc-100 */
+  --white-icon: #e4e4e7;     /* light gray for icons/text */
+  --white-icon-tr: rgba(255, 255, 255, 0.08); /* transparent border/bg */
+  --sec: #22d3ee;            /* accent color (cyan-400) */
+}
+
+/* ✅ Optional: dark theme override (if you want slightly different contrast) */
+.dark {
+  --white: #f4f4f5;
+  --white-icon: #d4d4d8;     /* zinc-300 */
+  --white-icon-tr: rgba(255, 255, 255, 0.1);
+}
