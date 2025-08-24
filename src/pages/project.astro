@@ -1,0 +1,38 @@
+---
+import { getCollection } from "astro:content";
+import ProjectCard from "../components/ProjectCard.astro";
+import CategoryTabs from "../components/CategoryTabs.astro";
+import H1 from "../components/h1.astro";
+import InfoLayout from "../layouts/InfoLayout.astro";
+
+const allProjects = await getCollection("projects");
+
+const categories = [...new Set(allProjects.map((p) => p.data.category))];
+
+const url = new URL(Astro.request.url);
+const activeCategory = url.searchParams.get("category");
+
+const filteredProjects = activeCategory
+  ? allProjects.filter((p) => p.data.category === activeCategory)
+  : allProjects;
+---
+
+<InfoLayout>
+  <div class="p-6 sm:px-12 pb-20">
+    <H1>Projects</H1>
+
+    {categories.length > 0 && (
+      <CategoryTabs categories={categories} activeCategory={activeCategory} />
+    )}
+
+    <div class="mt-10 grid gap-8">
+      {filteredProjects.length > 0 ? (
+        filteredProjects.map((project) => (
+          <ProjectCard project={project} />
+        ))
+      ) : (
+        <p class="text-zinc-400">⚠️ No projects found.</p>
+      )}
+    </div>
+  </div>
+</InfoLayout>

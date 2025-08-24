@@ -1,0 +1,27 @@
+---
+const { categories, activeCategory } = Astro.props;
+---
+
+<div class="flex gap-3 flex-wrap mt-6">
+  <a 
+    href="/project" 
+    class={`px-3 py-1 rounded-full text-sm transition 
+      ${!activeCategory 
+        ? "bg-blue-600 text-white" 
+        : "bg-zinc-800 text-zinc-300 hover:bg-zinc-700"}`}
+  >
+    All
+  </a>
+
+  {categories.map(cat => (
+    <a 
+      href={`?category=${encodeURIComponent(cat)}`} 
+      class={`px-3 py-1 rounded-full text-sm transition 
+        ${activeCategory === cat 
+          ? "bg-blue-600 text-white" 
+          : "bg-zinc-800 text-zinc-300 hover:bg-zinc-700"}`}
+    >
+      {cat}
+    </a>
+  ))}
+</div>
