@@ -4,7 +4,7 @@ category: Data Science
 description: Leveraged Selenium to scrape 1.4L restaurants and built rating prediction model.
 skills: [Selenium, Python, CatBoost, SHAP, AutoViz]
 link: https://github.com/RRK-CODER/-Swiggy-India-Restaurant-Analytics
-image: "/src/assets/swiggy.jpg"
+image: "/swiggy.jpg"
 ---
 
 ---

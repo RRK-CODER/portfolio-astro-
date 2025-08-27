@@ -6,7 +6,7 @@ description: Developed a precise salary estimation tool with MAE ≈ $11,000, de
 
 skills: [Python, Pandas, Selenium, Flask, Pickle]
 link: https://github.com/RRK-CODER/Data_Science_Salary_Estimator
-image: "/src/assets/glassdoor.jpg"
+image: "/glassdoor.jpg"
 ---
 
 ---
