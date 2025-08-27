@@ -10,33 +10,29 @@ const defaultTitle = "RRK Coder";
 const defaultDescription =
   "Myself Rohit Ranjan Kumar, a versatile Software Developer with expertise in Data Engineering. I am skilled in building scalable data pipelines on Azure Databricks, developing full-stack web applications (Angular/FastAPI), and automating processes with Selenium.";
 
-// Handles sites deployed under a sub-path (e.g. /nikola-tesla/)
 const BASE = import.meta.env.BASE_URL || "/";
-
 ---
 <!doctype html>
 <html lang="en">
   <head>
-
-      <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-CWM5YC92Y7"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-CWM5YC92Y7');
-</script>
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CWM5YC92Y7"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-CWM5YC92Y7');
+    </script>
 
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
 
     <!-- Favicons -->
-	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
-	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
-	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-	<link rel="shortcut icon" href="/favicon.ico" />
-	<link rel="manifest" href="/site.webmanifest" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="manifest" href="/site.webmanifest" />
 
     <meta name="theme-color" content="#0a0a0a" />
 
@@ -44,6 +40,7 @@ const BASE = import.meta.env.BASE_URL || "/";
     <title>{title ?? defaultTitle}</title>
     <meta name="description" content={description ?? defaultDescription} />
 
+    <!-- Open Graph / Twitter -->
     <meta property="og:url" content="https://nikola.fluidinterfaces.com/" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content={defaultTitle} />
@@ -60,25 +57,23 @@ const BASE = import.meta.env.BASE_URL || "/";
     <Font cssVariable="--font-geist" preload />
     <ClientRouter />
     <LoadingIndicator color="#f4f4f5" height="2px" />
-
-
   </head>
   <body class="font-sans min-h-screen bg-zinc-900">
     <slot />
-        <!-- ✅ Buy Me a Coffee Widget -->
-    <script
-      data-name="BMC-Widget"
-      data-cfasync="false"
-      src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
-      data-id="rrkcoder"
-      data-description="Support me on Buy me a coffee!"
-      data-message="If you like what I am doing, help me buy my first MacBook"
-      data-color="#5F7FFF"
-      data-position="Right"
-      data-x_margin="18"
-      data-y_margin="18"
-    ></script>
-    
+
+    <!-- ✅ Direct Buy Me a Coffee script -->
+    <script 
+      data-name="BMC-Widget" 
+      data-cfasync="false" 
+      src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" 
+      data-id="rrkcoder" 
+      data-description="Support me on Buy me a coffee!" 
+      data-message="If you like what I am doing, help me buy my first MacBook" 
+      data-color="#5F7FFF" 
+      data-position="Right" 
+      data-x_margin="18" 
+      data-y_margin="18">
+    </script>
   </body>
 </html>
 
