@@ -1,0 +1,30 @@
+---
+const { blog } = Astro.props;
+import { Image } from "astro:assets";
+---
+
+<a href={`/blog/${blog.data.slug}`} class="block group">
+  <div class="flex flex-col bg-zinc-900 rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition">
+    {blog.data.cover && (
+      <div class="w-full h-48 sm:h-56 overflow-hidden">
+        <Image
+          src={blog.data.cover}
+          alt={blog.data.coverAlt}
+          class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+        />
+      </div>
+    )}
+    <div class="p-4 flex flex-col flex-grow">
+      <h2 class="text-lg font-semibold text-white group-hover:text-blue-400 transition">
+        {blog.data.title}
+      </h2>
+      {blog.data.snippet && (
+        <p class="mt-2 text-sm text-zinc-300 line-clamp-3">{blog.data.snippet}</p>
+      )}
+      <div class="mt-3 text-xs text-zinc-500 flex justify-between items-center">
+        <span>📂 {blog.data.category}</span>
+        <span>⏱ {blog.data.readingDuration} min read</span>
+      </div>
+    </div>
+  </div>
+</a>

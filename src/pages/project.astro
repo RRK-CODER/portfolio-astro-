@@ -21,9 +21,11 @@ const filteredProjects = activeCategory
   <div class="p-6 sm:px-12 pb-20">
     <H1>Projects</H1>
 
-    {categories.length > 0 && (
-      <CategoryTabs categories={categories} activeCategory={activeCategory} />
-    )}
+    <CategoryTabs 
+      categories={categories} 
+      activeCategory={activeCategory} 
+      basePath="/project" 
+    />
 
     <div class="mt-10 grid gap-8">
       {filteredProjects.length > 0 ? (
