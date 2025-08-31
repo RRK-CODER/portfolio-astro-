@@ -1,14 +1,23 @@
-<script
-  is:inline
-  is:global
-  data-name="BMC-Widget"
-  data-cfasync="false"
-  src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
-  data-id="rrkcoder"
-  data-description="Support me on Buy me a coffee!"
-  data-message="If you like what I am doing, help me buy my first MacBook"
-  data-color="#5F7FFF"
-  data-position="Right"
-  data-x_margin="18"
-  data-y_margin="18"
-></script>
+---
+const slug = "rrkcoder";
+---
+
+<a 
+  href={`https://www.buymeacoffee.com/${slug}`} 
+  target="_blank" 
+  rel="noopener noreferrer"
+  class="inline-flex items-center justify-center gap-2
+         w-[220px] h-[60px]
+         bg-[#FFDD00] rounded-lg shadow-md
+         text-[#000000] font-[Cookie] text-2xl
+         border border-[#000000]
+         hover:scale-105 transition-transform"
+>
+  <span>☕</span>
+  <span>Buy me a coffee</span>
+</a>
+
+<!-- Import Cookie font -->
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+</style>
