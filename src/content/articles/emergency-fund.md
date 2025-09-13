@@ -15,6 +15,7 @@ cover: ../../assets/emergency-fund.jpg
 
 Emergency fund is a stack of money which you keep aside for unexpected expenses like job loss, career break due to medical emergency for you or your loved ones or any unexpected financial surprises life throws at you.
 
+![Emergency Fund](../../assets/emergency-fund.jpg)
 Those who are in the tech industry must have seen layoffs happening and people around them suffering due to that or may have experienced it themselves. Whenever I see someone in such a situation, I immediately feel the importance of having an emergency fund. I as a software developer in a private job, can be unemployed at any moment and the only thing I can control is to buy some extra time for preparing for a new job and keep myself calm and composed to accept the situation by at least taking care of financial needs.
 
 I have read many financial books like *The Intelligent Investor* or *Psychology of Money*, but whenever I read terms like emergency fund, I used to think, why do I need it? because I actually come from a business background and since childhood it’s quite normal for me to see cash coming every day in our shop which we deposit in the bank, and these days UPI has also reduced that second step. So whenever we needed money for anything, the only reaction we had was: stop sending money to the bank and boom, you can deal with that emergency — either it’s car repair after an accident or a medical emergency, just stop the deposit and you are good to go. But an incident changed my perspective on EF (Emergency Fund).
@@ -24,6 +25,8 @@ My brother, who used to be a derivative trader in the UK market, had read more b
 My brother suffered for 4 months from unnecessary drama of cousins and relatives regarding: “Why are you at home? Are you going to join the family business?” blah blah blah. My parents were also worried during that phase: “When will he land another job? Why did you resign in the first place?” etc. He studied for four months and joined an MNC and everything settled down — but it left a lesson which taught the deep value of EF.
 
 ---
+
+
 
 ## How to calculate the EF?
 
