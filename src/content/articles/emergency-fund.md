@@ -1,8 +1,8 @@
 ---
 isDraft: false
-title: What is Emergency Fund and why should a person with a private job have it?
+title: Emergency Fund - a financial protection to avoid surprises
 snippet: Importance of building and maintaining an Emergency Fund for private job holders.
-slug: what-is-emergency-fund-private-job
+slug: emergency-fund
 readingDuration: 9
 category: Personal Finance
 date: 2025-09-13
@@ -11,26 +11,26 @@ coverAlt: Emergency Fund - Financial Safety Net
 cover: ../../assets/emergency-fund.jpg
 ---
 
-# What is Emergency Fund and why should a person with a private job have it?
+# Emergency Fund - a financial protection to avoid surprises
+
+Those who are in the tech industry must have seen layoffs happening in big tech firms like Google, Microsoft, Oracle etc. and might have seen people around them suffering due to that or may have experienced it themselves. Whenever I see someone in such a situation, I immediately feel the importance of having an emergency fund. I as a software developer in a private job, can be unemployed at any moment and the only thing I can control is to buy some extra time for preparing for a new job and keep myself calm and composed to accept the situation by at least taking care of financial needs. So the most important investment for you is not gold, not stocks, not SIP but Emergency Fund because it's the most handy.
 
 Emergency fund is a stack of money which you keep aside for unexpected expenses like job loss, career break due to medical emergency for you or your loved ones or any unexpected financial surprises life throws at you.
 
 ![Emergency Fund](../../assets/emergency-fund.jpg)
-Those who are in the tech industry must have seen layoffs happening and people around them suffering due to that or may have experienced it themselves. Whenever I see someone in such a situation, I immediately feel the importance of having an emergency fund. I as a software developer in a private job, can be unemployed at any moment and the only thing I can control is to buy some extra time for preparing for a new job and keep myself calm and composed to accept the situation by at least taking care of financial needs.
+
 
 I have read many financial books like *The Intelligent Investor* or *Psychology of Money*, but whenever I read terms like emergency fund, I used to think, why do I need it? because I actually come from a business background and since childhood it’s quite normal for me to see cash coming every day in our shop which we deposit in the bank, and these days UPI has also reduced that second step. So whenever we needed money for anything, the only reaction we had was: stop sending money to the bank and boom, you can deal with that emergency — either it’s car repair after an accident or a medical emergency, just stop the deposit and you are good to go. But an incident changed my perspective on EF (Emergency Fund).
 
-My brother, who used to be a derivative trader in the UK market, had read more books on finance than me, but we learned the importance of an emergency fund the hard way. I visited him in Kolkata during my college vacation just to roam around the city and visit him in his office. I reached Kolkata, we had lunch together and he went to his office, promising me a tour after the market gets closed. But within an hour he told me that he had resigned from his position due to unreasonable pressure and arguments from the upper management over a mere loss of 15k dollars(it's a very small amount in world of trading). Later that evening, those who didn’t make losses were also forced to resign with no severance package or anything.
+My brother, who used to be a derivative trader in the UK market, had read more books on finance than me, but we learned the importance of an emergency fund the hard way. I visited him in Kolkata during my college vacation just to roam around the city and visit him in his office. I reached Kolkata, we had lunch together and he went to his office, promising me a tour after the market gets closed. But within an hour he told me that the entire trading team in UK markets had been fired due to the UK market crash, everyone was forced to resign with no severance package or anything.
 
 My brother suffered for 4 months from unnecessary drama of cousins and relatives regarding: “Why are you at home? Are you going to join the family business?” blah blah blah. My parents were also worried during that phase: “When will he land another job? Why did you resign in the first place?” etc. He studied for four months and joined an MNC and everything settled down — but it left a lesson which taught the deep value of EF.
 
 ---
 
-
+FAQs that come across while deciding Emergency Fund 
 
 ## How to calculate the EF?
-
-Now comes the question: how to calculate the EF for a month? What should be the minimum amount of EF one should have? How many months of EF should we aim for?
 
 One month of EF is equivalent to the minimum spend which you need to live without removing your necessities. So the basic things to be covered in 1 month of EF could be:
 
@@ -43,7 +43,7 @@ One month of EF is equivalent to the minimum spend which you need to live withou
 - Cab expenses (in case of offline interviews)  
 - Last month’s credit card bill  
 
-Unexpected expenses might come like higher electricity bills (if you are spending too much time at your flat), premiums for job hunting websites like Naukri or LinkedIn. It’s always good to keep these in mind. Small expenses like these multiplied by the number of months you remain unemployed will become a big amount when you don’t have money, so include even the smallest expense you need on a regular basis or which you might need. 
+Unexpected expenses might come like higher electricity bills (if you are spending too much time at your flat), premiums for job hunting websites like Naukri or LinkedIn. It’s always good to keep these in mind. Small expenses like these multiplied by the number of months you remain unemployed will become a big amount when you don’t have money, so include even the smallest expense you need on a regular basis. 
 
 Also, when it comes to cut unnecessary expenses these things may vary from person to person. For me, I can’t sleep without AC, so I have included my entire electricity bill because that can’t be reduced, but I can adjust with not shopping online in case I am in trouble. So based on the necessities and non-necessities you can decide your 1 month of EF. 
 
@@ -78,13 +78,13 @@ I am aiming to save **60 months of EF** so that even if one day I feel I no long
 
 ## Where should you keep your EF?
 
-Also, when it comes to EF, I put aside all my financial knowledge and simply keep my money in a **savings account in SBI Bank**. 
+Also, when it comes to EF, I put aside all my financial knowledge and simply keep my money in a **savings account in big banks**. 
 
-- No FD  
-- No RD  
-- No MF  
+- No Fixed Deposit  
+- No Recurring Deposit
+- No Mutual Funds
 - No stocks  
-- No private bank for extra interest  
+- No small bank for extra interest  
 
 Only **hardcore withdrawable cash** for such situations. I apply all the financial knowledge to the rest of my savings but not on emergency funds.
 
