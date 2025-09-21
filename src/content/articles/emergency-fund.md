@@ -13,22 +13,24 @@ cover: ../../assets/emergency-fund.jpg
 
 # Emergency Fund - a financial protection to avoid surprises
 
-Those who are in the tech industry must have seen layoffs happening in big tech firms like Google, Microsoft, Oracle etc. and might have seen people around them suffering due to that or may have experienced it themselves. Whenever I see someone in such a situation, I immediately feel the importance of having an emergency fund. I as a software developer in a private job, can be unemployed at any moment and the only thing I can control is to buy some extra time for preparing for a new job and keep myself calm and composed to accept the situation by at least taking care of financial needs. So the most important investment for you is not gold, not stocks, not SIP but Emergency Fund because it's the most handy.
+Those who all know about tech industry might also know the bad times it is going through, from layoffs to salary stagnation, the tech industry is suffering. Many big tech giants like the FAANG or even smaller startups are resorting to rounds and rounds of layoffs. As a result, the uncertainty in the industry is at its peak.
+Whenever I see someone in such a situation, I immediately realize the importance of having an emergency fund. I as a software developer in a private job, can be unemployed at any moment and the only thing I can control is to buy some extra time for preparing for a new job and keep myself calm and composed to accept the situation by at least taking care of financial needs. So the most important investment for you is not gold, not stocks, not SIP but Emergency Fund because it's the most handy.
 
-Emergency fund is a stack of money which you keep aside for unexpected expenses like job loss, career break due to medical emergency for you or your loved ones or any unexpected financial surprises life throws at you.
+Emergency fund is a stack of money which you keep aside for unexpected situations like job loss, career break due to medical emergency for you or your loved ones or any unexpected financial surprises life throws at you.
 
 ![Emergency Fund](../../assets/emergency-fund.jpg)
 
 
 I have read many financial books like *The Intelligent Investor* or *Psychology of Money*, but whenever I read terms like emergency fund, I used to think, why do I need it? because I actually come from a business background and since childhood it’s quite normal for me to see cash coming every day in our shop which we deposit in the bank, and these days UPI has also reduced that second step. So whenever we needed money for anything, the only reaction we had was: stop sending money to the bank and boom, you can deal with that emergency — either it’s car repair after an accident or a medical emergency, just stop the deposit and you are good to go. But an incident changed my perspective on EF (Emergency Fund).
 
+As Syrus said "From the errors of others, a wise man corrects his own".
 My brother, who used to be a derivative trader in the UK market, had read more books on finance than me, but we learned the importance of an emergency fund the hard way. I visited him in Kolkata during my college vacation just to roam around the city and visit him in his office. I reached Kolkata, we had lunch together and he went to his office, promising me a tour after the market gets closed. But within an hour he told me that the entire trading team in UK markets had been fired due to the UK market crash, everyone was forced to resign with no severance package or anything.
 
 My brother suffered for 4 months from unnecessary drama of cousins and relatives regarding: “Why are you at home? Are you going to join the family business?” blah blah blah. My parents were also worried during that phase: “When will he land another job? Why did you resign in the first place?” etc. He studied for four months and joined an MNC and everything settled down — but it left a lesson which taught the deep value of EF.
 
 ---
 
-FAQs that come across while deciding Emergency Fund 
+# FAQs that come across while deciding Emergency Fund 
 
 ## How to calculate the EF?
 
@@ -88,4 +90,4 @@ Also, when it comes to EF, I put aside all my financial knowledge and simply kee
 
 Only **hardcore withdrawable cash** for such situations. I apply all the financial knowledge to the rest of my savings but not on emergency funds.
 
-My sole purpose is to help you with creating your EF, I am not trying to intimidate anyone, many of you including me are in healthy companies who haven't fired people in a decade but it's always good to be prepared for the worst and hope for the best and unsurprised by anything in between. Thank for reading till here, have a good day :)
+My sole purpose of writing this blog is to help you all create a robust Emergency Fund. This is not to scare you all, but to prepare, so when storms comes, you would be at peace and get to sail your boat through easily. Many of you all including me are in healthy companies who haven't fired people in a decade but it's always good to be prepared for the worst and hope for the best and unsurprised by anything in between. Thank for reading till here, have a good day :)
